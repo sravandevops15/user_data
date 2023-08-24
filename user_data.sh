@@ -8,5 +8,5 @@ sudo usermod -aG docker ec2-user
 
 #sudo systemctl 
 service docker restart
-#
+
 sudo reboot
